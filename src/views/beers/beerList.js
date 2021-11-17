@@ -22,7 +22,8 @@ class BeerList extends React.Component{
             beers:[],
             expanded:[],
             beerTypes:[{value:1,label:'Beer'}],
-            showList:true
+            showList:true,
+            changed:true
         }
     }
 
